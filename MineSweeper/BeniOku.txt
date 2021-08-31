@@ -1,0 +1,2 @@
+boşluk tuşu ile bayrak bırakabilir ve bıraktığınız bayrağı kaldırabilirsiniz.
+mouse ile oyunu oynayabilirsiniz.
