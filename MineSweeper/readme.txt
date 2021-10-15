@@ -1,0 +1,1 @@
+Play with mouse. Put flags with spacebar.
